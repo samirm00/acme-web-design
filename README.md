@@ -7,9 +7,9 @@ the project contains :
 
 1-Index.html file : which present the HYF online courses .
 
-2-Services.html : present hte different services or courses.
+2-Services.html : present the different services or courses.
 
-3-AboutUs.html : all the information about the online courses and how the client can send us his information and fill forms.
+3-AboutUs.html : all the information about the online courses and how the client can send us his/her information by filling forms.
 
 4-Style.css file .
 
