@@ -2,14 +2,14 @@
 
 ---
 
-This project is a simple website consists of three html files and one CSS file for fictional virtual online courses offering different type of online course , Web development , Data Analytics and Data Science.
+This project is a simple website consists of three html files and one CSS file for fictional virtual online courses offering different type of online courses , Web development , Data Analytics and Data Science.
 the project contains :
 
 - Index.html file : which presents the HYF online courses .
 
 - Services.html : presents the different services or courses.
 
-- AboutUs.html : all the information about the online courses and how the client can send us his/her information by filling forms.
+- AboutUs.html : all the information about the online courses and how the student send his/her information by filling forms.
 
 - Style.css file .
 
