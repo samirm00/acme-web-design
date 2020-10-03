@@ -90,11 +90,11 @@
   - `header`
     - add text-align , color,background-color,margin, padding
   - `class"main-nav"`
-    - add text-align , font-family , badding
+    - add text-align , font-family , padding
   - `HYH logo class`
     - add width, margin
   - `p`
-    - text-align,font-family , margin, badding, borser
+    - text-align,font-family , margin, padding, border
   - `class logos`
     - disply , margin, width ,padding
   - `form input class `
