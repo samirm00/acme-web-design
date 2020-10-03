@@ -52,7 +52,7 @@ header {
 .image {
   text-align: center;
 }
-.HYFlogo {
+.HYHlogo {
   width: 50%;
   height: auto;
   display: inline-block;
@@ -148,7 +148,7 @@ footer {
   .main-nav li {
     margin-top: 20px;
   }
-  .HYFlogo {
+  .HYHlogo {
     width: 100%;
   }
   .introduction {
