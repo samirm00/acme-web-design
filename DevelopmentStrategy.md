@@ -86,8 +86,7 @@
     - make padding and margin zero.
   - `body`
     - add font-size , font-family , background-image,
-  - `body`
-    - add font-size , font-family , background-image
+  
   - `header`
     - add text-align , color,background-color,margin, padding
   - `class"main-nav"`
@@ -98,9 +97,9 @@
     - text-align,font-family , margin, badding, borser
   - `class logos`
     - disply , margin, width ,padding
-  - `form input `
+  - `form input classes `
     - color, width, margin
-  - `button`
+  - `button class`
     - width, margin, background-color
 
 ## step 5
