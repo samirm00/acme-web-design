@@ -107,6 +107,6 @@
 - open `git`
   - add all the files to staging area .
   - commit the files
-  - push them with Images , REDAME ,wireframe and incremental strategy to GitHub.
+  - push them with Images , REDAME ,wireframe and incremental strategy to `acme-web-design` on GitHub.
 
 ---
