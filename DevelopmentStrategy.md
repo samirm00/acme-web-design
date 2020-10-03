@@ -106,7 +106,7 @@
 
 - open `git`
   - add all the files to staging area .
-  - commit the 4 files
+  - commit the files
   - push them with Images , REDAME ,wireframe and incremental strategy to GitHub.
 
 ---
