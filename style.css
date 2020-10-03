@@ -136,14 +136,25 @@ footer {
     height: 100%;
   }
   header,
-  .main-nav,
-  .main-nav li {
+  .main-nave,
+  .main-nave li {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
     float: none;
     text-align: center;
     width: 100%;
   }
+  .main-nav,
+  .main-nav li {
+    margin-top: 20px;
+  }
   .HYFlogo {
     width: 100%;
+  }
+  .introduction {
+    float: none;
+    width: 80%;
+    margin-left: 1%;
   }
   .form {
     text-align: center;
@@ -165,14 +176,25 @@ footer {
     height: 100%;
   }
   header,
-  .main-nav,
-  .main-nav li {
+  .main-nave,
+  .main-nave li {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
     float: none;
     text-align: center;
     width: 100%;
   }
+  .main-nav,
+  .main-nav li {
+    margin-top: 20px;
+  }
   .HYFlogo {
     width: 100%;
+  }
+  .introduction {
+    float: none;
+    width: 80%;
+    margin-left: 1%;
   }
   .form {
     text-align: center;
