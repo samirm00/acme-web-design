@@ -4,48 +4,110 @@
 
 ## Step 0
 
-- GitHub :
-
-  - create a repository on gitHub and named it `acme-web-design`.
-  - clone the repository to PC.
+- create a repository on gitHub and named it `acme-web-design`.
+- clone the repository to PC.
 
 ## Step 1
 
-- Git :
-
-  - create CSS file on the master branch.
-  - create a new branch `1-home`.
-  - switch to the branch `1-home` and create html file `index`.
-  - work on `index` by adding html tages , images , sections and so on using VSC.
-  - merge the `1-home` with the master branch.
-  - close the branch `1-home`.
+- create a new branch `1-home`.
+- switch to the branch `1-home` and create html file `index`.
+- `index`
+  - add the `head` tage.
+    - `head`
+      - add links to google fonts.
+      - link to icon ( specific icon shows a guy working on laptop).
+      - link description ( discribe my web site )
+      - link to my style page `style.css`
+      - the title .
+  - add the `body` tage .
+    - `body`
+      - add the `header`
+      - add navigation bar.
+      - add `div` tage with an image (HYH's student group image) inside it.
+      - add `section` with paragraph and unorder list (for diffrernt type of courses ).
+      - add `section` with unordered list , each `li` contain a logo for a programming languges or a markup language .
+      - add `footer` include copyright symbol.
+- merge the `1-home` with the master branch.
 
 ## Step 2
 
-- Git :
-  - create a new branch `2-services`.
-  - switch to the branch `2-services` and create html file `services`.
-  - work on `services` by adding html tages , images , sections and so on using VSC.
-  - merge the `2-services` with the master branch.
-  - close the branch `2-services`.
+- create a new branch `2-services`.
+- switch to the branch `2-services` and create html file `index`.
+- `index`
+  - add the `head` tage.
+    - `head`
+      - add links to google fonts.
+      - link to icon ( specific icon shows a guy working on laptop).
+      - link description ( discribe my web site )
+      - link to my style page `style.css`
+      - the title .
+  - add the `body` tage .
+    - `body`
+      - add the `header`
+      - add navigation bar.
+      - add `section1` with `header2` and `p` inside it.
+      - add `form1` with `input1` and `button1`.
+      - add `section2` with `header2` and `p` inside it.
+      - add `form2` with `input2` and `button2`.
+      - add `section3` with `header2` and `p` inside it.
+      - add `form3` with `input3` and `button3`.
+      - add `section2` with unordered list , each `li` contain a logo for a programming languges or a markup language .
+      - add `footer` include copyright symbol.
+- merge the `2-services` with the master branch.
 
 ## step 3
 
-- Git :
-  - create a new branch `3-about`.
-  - switch to the branch `3-about` and create html file `aboutUs`.
-  - work on `aboutUs` by adding html tages , images , sections and so on using VSC.
-  - merge the `3-about` with the master branch.
-  - close the branch `3-about`.
+- create a new branch `3-about`.
+- switch to the branch `3-about` and create html file `index`.
+- `index`
+  - add the `head` tage.
+    - `head`
+      - add links to google fonts.
+      - link to icon ( specific icon shows a guy working on laptop).
+      - link description ( discribe my web site )
+      - link to my style page `style.css`
+      - the title .
+  - add the `body` tage .
+    - `body`
+      - add the `header`
+      - add navigation bar.
+      - add `section1` with `header2` and `p` inside it.
+      - add `section2` with `header2` .
+      - add `form` with `input1 to 6`(first name , last name ,age, E-mail,phonenumber, address) and `button1`.
+      - add `section3` with unordered list , each `li` contain a logo for a programming languges or a markup language .
+      - add `footer` include copyright symbol.
+- merge the `3-about` with the master branch.
 
 ## step 4
 
-- Git :
-  - work on css file on the master branch add different properties , classes ,Ids to the 3 html files .
+- create CSS file on the master branch.
+- `style.css`
+  - `*`, `html`
+    - make padding and margin zero.
+  - `body`
+    - add font-size , font-family , background-image,
+  - `body`
+    - add font-size , font-family , background-image
+  - `header`
+    - add text-align , color,background-color,margin, padding
+  - `class"main-nav"`
+    - add text-align , font-family , badding
+  - `HYH logo`
+    - add width, margin
+  - `p`
+    - text-align,font-family , margin, badding, borser
+  - `class logos`
+    - disply , margin, width ,padding
+  - `form input `
+    - color, width, margin
+  - `button`
+    - width, margin, background-color
 
 ## step 5
 
-- Git :
-  - commit the 4 files and push them with Images , REDAME ,wireframe and incremental strategy to GitHub.
+- open `git`
+  - add all the files to staging area .
+  - commit the 4 files
+  - push them with Images , REDAME ,wireframe and incremental strategy to GitHub.
 
 ---
