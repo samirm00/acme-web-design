@@ -97,7 +97,7 @@
     - text-align,font-family , margin, badding, borser
   - `class logos`
     - disply , margin, width ,padding
-  - `form input classes `
+  - `form input classe `
     - color, width, margin
   - `button class`
     - width, margin, background-color
