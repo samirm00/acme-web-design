@@ -91,7 +91,7 @@
     - add text-align , color,background-color,margin, padding
   - `class"main-nav"`
     - add text-align , font-family , badding
-  - `HYH logo`
+  - `HYH logo class`
     - add width, margin
   - `p`
     - text-align,font-family , margin, badding, borser
