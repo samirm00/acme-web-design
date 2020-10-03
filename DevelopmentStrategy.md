@@ -32,8 +32,8 @@
 ## Step 2
 
 - create a new branch `2-services`.
-- switch to the branch `2-services` and create html file `index`.
-- `index`
+- switch to the branch `2-services` and create html file `services`.
+- `sevices`
   - add the `head` tage.
     - `head`
       - add links to google fonts.
@@ -58,8 +58,8 @@
 ## step 3
 
 - create a new branch `3-about`.
-- switch to the branch `3-about` and create html file `index`.
-- `index`
+- switch to the branch `3-about` and create html file `aboutUS`.
+- `aboutUs`
   - add the `head` tage.
     - `head`
       - add links to google fonts.
