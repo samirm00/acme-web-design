@@ -82,11 +82,13 @@
 
 - create CSS file on the master branch.
 - `style.css`
+
   - `*`, `html`
     - make padding and margin zero.
   - `body`
+
     - add font-size , font-family , background-image,
-  
+
   - `header`
     - add text-align , color,background-color,margin, padding
   - `class"main-nav"`
