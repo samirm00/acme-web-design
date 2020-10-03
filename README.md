@@ -1,4 +1,4 @@
-# a simple HYF website for online course
+# a simple HYH website for online course
 
 ---
 
