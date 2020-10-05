@@ -4,8 +4,8 @@
 
 - This project is a simple website consists of three html files and one CSS file for fictional virtual online courses offering different type of online courses , Web development , Data Analytics and Data Science.
 
-- This website will be very helpful for anyone wants to learn coding to start a new career or a hobby .
-- this website , will help the code lover to communicate with us in orser to get mor information about the registration for the diiferent courses.
+- This website will be very helpful for anyone wants to learn coding to start a new career or as a hobby .
+- this website , will help the code lovers to communicate with us in order to get more information about the registration for the different courses.
 
 ## Wireframe
 
