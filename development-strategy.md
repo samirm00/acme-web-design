@@ -1,6 +1,18 @@
-## Development Strategy
+# Development Strategy
 
----
+> `acme-web-design`
+
+- This project is a simple website consists of three html files and one CSS file for fictional virtual online courses offering different type of online courses , Web development , Data Analytics and Data Science.
+
+- This website will be very helpful for anyone wants to learn coding to start a new career or a hobby .
+- this website , will help the code lover to communicate with us in orser to get mor information about the registration for the diiferent courses.
+
+## Wireframe
+
+<!-- include a wireframe for your project in this repository, and display it here -->
+<!-- wireframe.cc is a good site for getting started with wireframes -->
+
+![wireframe](https://raw.githubusercontent.com/samirm00/acme-web-design/master/Wireframe.png)
 
 ## Step 0
 
